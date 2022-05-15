@@ -1,2 +1,2 @@
-# User_management
-PAF assignment 2 - Rich frontend  
+# User_management-Electrogrid
+IT20197032 - PAF practical test 2022  - Rich frontend for User service
